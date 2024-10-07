@@ -11,3 +11,5 @@ and load it into Big query. Additionally, you are required to develop a dashboar
 **Data Loading:** Load transformed data into Google BigQuery tables.
 
 **Orchestration:** Automate complete Data pipeline using Airflow ( Cloud Composer )
+
+![Uploading image.png…]()
